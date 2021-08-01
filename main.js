@@ -7,3 +7,6 @@ function twitter(){
  function tiktok(){
      window.location = "https://tiktok.com/@milkypeachtv"
  }
+ function Youtube(){
+     window.location = "https://www.youtube.com/channel/UCl8Wif27bQqyGZtunFCHdpQ/featured"
+ }
